@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+	margin: 0;
+	border: 0;
+	/*align-items: center;*/
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+.container
+{
+	color: #41AE55;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 500;
+	padding: 30px;
+	margin-top: 200px;
+}
+
+
+#value
+{
+	font-size: 30px;
+	font-weight: 700;
+	
+}
+
+
+
+.button-ctr
+{
+
+
+    text-align: center;
+    
+}
+
+
+.btn1
+{
+		/*position: relative;*/
+	background: #2196f3;
+	display: inline-block;
+	color: #fff;
+	margin: 20px;
+	padding: 10px 30px;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+	font-weight: 500;
+	
+}
+
+.btn2
+{
+		/*position: relative;*/
+	background: #2196f3;
+	display: inline-block;
+	color: #fff;
+	margin: 20px;
+	padding: 10px 30px;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+	font-weight: 500;
+	
+}
+
+ .btn3
+{
+		/*position: relativ*/e;
+	background: #2196f3;
+	display: inline-block;
+	color: #fff;
+	margin: 20px;
+	padding: 10px 30px;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 2px;
+	font-weight: 500;
+	
+}
